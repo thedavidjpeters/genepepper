@@ -1,4 +1,4 @@
-baseURL       = "https://2a395d6d.genepepper.pages.dev/"
+baseURL       = "https://genepepper.pages.dev/"
 languageCode  = "en-us"
 title         = "Gene Pepper Design"
 theme         = "roxo-hugo"
