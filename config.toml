@@ -1,6 +1,6 @@
-baseURL       = "http://example.org/"
+baseURL       = "https://2a395d6d.genepepper.pages.dev/"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "Gene Pepper Design"
 theme         = "roxo-hugo"
 summarylength = 25
 
