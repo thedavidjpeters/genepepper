@@ -1,0 +1,16 @@
+enable  : true
+title   : Team that makes the difference.
+members  :
+  - image       : images/team/team-member-one.jpg
+    name        : PABLO ESCOBAR
+    designation : Creative Director
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-two.jpg
+    name        : MONTINO RIAU
+    designation : Product Manager
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
