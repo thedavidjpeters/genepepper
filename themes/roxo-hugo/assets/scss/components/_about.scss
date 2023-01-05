@@ -8,13 +8,11 @@
     }
   }
   &-wrapper{
-    display: flex;
     align-items: center;
-    flex-wrap: wrap;
   }
   &-company{
     background: $primary-color;
-    width: 40%;
+    width: 100%;
     padding: 70px 38px;
     @include desktop{
       width: 100%;
