@@ -1,8 +1,8 @@
 ---
 title: "WILLIAMS RENDER CENTRE"
-date: 2019-12-23T15:44:46+06:00
+date: 2022-11-23T15:44:46+06:00
 type: portfolio
-image: "images/projects/williamsrenderlogo.png"
+image: "images/projects/thumbnails/wrc_thumb.png"
 category: ["LOGO DESIGN"]
-project_images: ["images/projects/williams1.png", "images/projects/williams2.png"]
+project_images: ["images/projects/wrc1.png", "images/projects/wrc2.png","images/projects/wrc3.png","images/projects/wrc4.png"]
 ---
