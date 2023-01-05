@@ -1,6 +1,6 @@
-baseURL       = "https://genepepper.pages.dev/"
+baseURL       = "http://example.org/"
 languageCode  = "en-us"
-title         = "Gene Pepper Design"
+title         = "GenePepper"
 theme         = "roxo-hugo"
 summarylength = 25
 
@@ -12,17 +12,13 @@ summarylength = 25
     url     = ""
     weight  = 1
   [[menu.nav]]
-    name    = "About"
-    url     = "about"
-    weight  = 2
-  [[menu.nav]]
     name    = "Portfolio"
     url     = "portfolio"
-    weight  = 3
+    weight  = 2
   [[menu.nav]]
     name    = "Get in touch"
     url     = "contact"
-    weight  = 4
+    weight  = 3
 
 # Site Params
 [params]
@@ -62,9 +58,9 @@ summarylength = 25
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/hero-background.jpeg"
-    #heading               = "We’re a Design Studio That Belies In the Great Ideas"
-    #tagline               = "WE WORK HARD, WE PLAY HARD"
+    background_image      = "images/backgrounds/hero-background-notext.jpg"
+    heading               = "GenePepper"
+    #tagline               = "Creators of content, branding and websites for small Australian businesses."
     primary_button        = "See Our Works"
     primary_button_url    = "portfolio"
     secondary_button      = "Connect with Us"
@@ -72,8 +68,8 @@ summarylength = 25
 
   [params.portfolio]
     enable    = true
-    title     = "OUR RECENT WORKS"
-    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+    title     = "OUR RECENT PROJECTS"
+    subtitle  = "How we work closely with Australians to create effective business media."
 
   [params.call_to_action]
     enable              = true
@@ -94,9 +90,6 @@ summarylength = 25
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"
-        [[params.footer.sitemap.link]]
-          name = "About Company"
-          url  = "about"
         [[params.footer.sitemap.link]]
           name = "Projects"
           url  = "portfolio"
